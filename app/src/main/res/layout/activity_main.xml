@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="cn.jianke.fontsize.MainActivity">
+    <LinearLayout
+        android:id="@+id/ly_font_select"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="@color/symptoms_list_dark_text"
+            android:text="当前字体大小："/>
+        <TextView
+            android:id="@+id/tv_current_font_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="18"
+            android:textColor="@color/symptoms_list_dark_text"
+            android:textSize="18sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sp"
+            android:textColor="@color/symptoms_list_dark_text"
+            android:textSize="18sp"/>
+        <Button
+            android:id="@+id/btn_font_select"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="32dp"
+            android:text="字体选择"
+            android:textSize="18sp" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tv_font_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/symptoms_list_dark_text"
+        android:textSize="18sp"
+        android:layout_below="@+id/ly_font_select"
+        android:paddingTop="16dp"
+        android:text="健客网成立于2006年，总部位于广东省，09年获得国家食品药品监督管理局颁发的《互联网药品交易服务资格证书》，成为广东省第一家(B2C)互联网药品经营企业。"/>
+</RelativeLayout>

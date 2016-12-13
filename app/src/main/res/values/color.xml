@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="yellow">#FF6600</color>
+    <color name="yellow_new">#ff5f57</color>
+    <color name="blue">#ff33b5e5</color>
+    <color name="green">#3e9429</color>
+    <color name="text_important">#373737</color>
+    <color name="text_color_normal">#444444</color>
+    <color name="text_color_hint">#b0b0b0</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="text_color_black">#3A3A3A</color>
+    <color name="editetext_color_normal">#97b0c4</color>
+    <color name="title_color">#00a2ff</color>
+    <color name="line_gray">#CCCCCC</color>
+    <color name="chat_bg_input">#FEFEFE</color>
+    <color name="chat_bg_list">#F0F0F0</color>
+    <color name="text_light_black_selector_normal">#969696</color>
+    <color name="text_light_black_selector_pressed">#1C4DB0</color>
+    <color name="base_bg_color">#f5f5f5</color>
+    <color name="bg_app">#37d4f5</color>
+    <color name="bg_dock">#181818</color>
+    <color name="bg_dialer">#444444</color>
+    <color name="bg_item_selected">#20000000</color>
+    <color name="bg_contact">#f1f1f1</color>
+    <color name="bg_contact_divider">#fff</color>
+    <color name="text_dialer_showing">#fff</color>
+    <color name="account_highlight">#fec503</color>
+    <color name="bg_activity">#f9f9f9</color>
+    <color name="bg_pinyin_nav_normal">#20000000</color>
+    <color name="bg_pinyin_nav_pressed">#80000000</color>
+    <color name="text_guide_bind_disable">#a3a7b0</color>
+    <color name="text_guide_bind_enable">#000000</color>
+    <color name="text_contact_group">#848484</color>
+    <color name="text_selector_normal">#222222</color>
+    <color name="text_selector_pressed">#00aeff</color>
+
+    <!-- dialer panel -->
+    <color name="bg_key_normal">#2a2a2a</color>
+    <color name="bg_key_pressed">#00aeff</color>
+    <color name="key_text_letter">#b2b2b2</color>
+    <color name="bg_user">#FFFFFF</color>
+    <color name="account_inactive">#FF646464</color>
+    <color name="account_unregistered">#FFFFC200</color>
+    <color name="account_valid">#FF84E300</color>
+    <color name="account_error">#FFFF0F00</color>
+    <color name="text_sip_calling_normal">#474749</color>
+    <color name="text_sip_calling_pressed">#f1f1f1</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_half">#e0000000</color>
+    <color name="lv_blue">#00a2ff</color>
+    <!-- 自诊界面蓝色 -->
+    <color name="blue_light">#299bff</color>
+    <color name="gray_light">#EDEDED</color>
+    <color name="gray">#cccccc</color>
+    <color name="gray_deep">#8D8D8D</color>
+    <color name="orange">#ff6021</color>
+    <color name="black">#88000000</color>
+    <color name="black_deep">#98000000</color>
+    <color name="black_light">#50000000</color>
+    <color name="red">#e60000</color>
+    <color name="btn_gray_normal">#868686</color>
+    <color name="btn_gray_lighted">#484848</color>
+    <color name="btn_yellow_light_normal">#FFFFF0</color>
+    <color name="bg_share_view">#EBEBEB</color>
+    <color name="transparent_background">#80ffffff</color>
+    <color name="transgray">#33555555</color>
+    <color name="ask_color_top_bg">#299bff</color>
+    <color name="ask_color_instantly">#6bdf79</color>
+
+    <!-- 自定义Loding_Dialog -->
+    <color name="bocop_dialog_bg">#77000000</color>
+    <color name="divider_line">#80F0F0F0</color>
+    <color name="ask_weather_city">#ACACAC</color>
+    <color name="ask_weather_city_bg">#E5E4E4</color>
+    <color name="doctor_home_title">#e70ea7ff</color>
+
+    <!-- 首页大家都在问字体颜色 -->
+    <color name="asking_female_color">#ff8f7d</color>
+    <color name="asking_male_color">#53B4F3</color>
+    <color name="asking_child_color">#4FC9B9</color>
+    <color name="asking_skin_color">#EE83C2</color>
+    <color name="asking_inside_color">#CA72EB</color>
+    <color name="asking_outside_color">#299BFF</color>
+    <color name="asking_psychological_color">#70E08A</color>
+
+    <!-- 医生评价的提示文字 -->
+    <color name="color_text_appraise">#ff6662</color>
+
+    <!-- 科室之间分割线颜色 -->
+    <color name="asking_vertical_line_color">#DDDDDD</color>
+
+    <!-- 首页医生模块字体 -->
+    <color name="ask_doctor_name_color">#444444</color>
+    <color name="ask_doctor_dept_color">#aaaaaa</color>
+    <color name="top_category_scroll_text_color_day">#ffffff</color>
+    <color name="subscribe_item_drag_stroke">#ffd2d2d2</color>
+    <color name="subscribe_item_drag_bg">#fff5f5f5</color>
+    <color name="subscribe_item_selected_bg">#ffffffff</color>
+    <color name="subscribe_item_selected_stroke">#ffcc3131</color>
+    <color name="subscribe_item_disabled_bg">#ffefefef</color>
+    <color name="subscribe_item_disabled_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_pressed_bg">#fff9f9f9</color>
+    <color name="search_pressed_bg">#f8f8f8</color>
+    <color name="subscribe_item_pressed_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_normal_bg">#fff5f5f5</color>
+    <color name="subscribe_item_normal_stroke">#ffcdcdcd</color>
+    <color name="subscribe_bg">#fff5f5f5</color>
+    <color name="subscribe_tip_text">#ff2e2e2e</color>
+    <color name="subscribe_seperate_line">#ffcdcdcd</color>
+
+    <!-- 咨询改版 -->
+    <color name="news_column_text">#222222</color>
+    <color name="news_base_color">#eeeeee</color>
+    <color name="rounded_rectangle">#999999</color>
+    <color name="news_item_selected">#0ea7ff</color>
+    <color name="ask_doctor_submit_color">#3fafef</color>
+    <color name="blue_translucence">#003fafef</color>
+    <!-- 自诊改版 -->
+    <!-- 主体色调 -->
+    <color name="heading_color">#0ea7ff</color>
+    <color name="main_background">#f4f4f4</color>
+    <color name="main_background_content">#ffffff</color>
+    <!-- 字体颜色 -->
+    <color name="font_channel">#ffffff</color>
+    <color name="font_navigation">#222222</color>
+    <color name="font_navigation_checked">#0ea7ff</color>
+    <color name="font_title">#222222</color>
+    <color name="font_title_checked">#0ea7ff</color>
+    <color name="font_content">#222222</color>
+    <color name="font_time">#cccccc</color>
+    <!-- 图片相关 -->
+    <color name="pic_background_text">#000000</color>
+    <color name="pic_color_text">#ffffff</color>
+    <!-- 图标相关 -->
+    <color name="main_heading_icon">#222222</color>
+    <color name="sub_heading_icon">#999999</color>
+    <!-- 计步器 -->
+    <color name="background_passometer">#ffffff</color>
+    <color name="passometer_num">#0ea7ff</color>
+    <color name="main_heading">#222222</color>
+    <color name="sub_heading">#999999</color>
+    <!-- 间隔线 -->
+    <color name="septal_line">#e5e5e5</color>
+    <!-- 计步器  -->
+    <color name="text_color">#777777</color>
+    <color name="btn_color">#15a9ff</color>
+    <color name="background">#f9f0f0</color>
+    <color name="age_seclect_color">#cccccc</color>
+     <color name="age_seclect_color3">#dcdcdc</color>
+     <color name="proessround">#eaeaea</color>
+     <color name="proessstartcolor">#0da7ff</color>
+     <color name="proessendcolor">#31da41</color>
+    <!-- 4.4版本颜色值  -->
+    <color name="symptoms_list_gray_bg">#f4f4f4</color>
+    <color name="symptoms_list_dark_text">#222222</color>
+    <color name="symptoms_self_diagnostics_tab_blue_text">#3fafef</color>
+    <color name="symptoms_self_diagnostics_tab_dark_text">#444444</color>
+    <color name="disease_aotognosis_dark_text">#999999</color>
+    <color name="cycle_image_bg">#44222222</color>
+    <!-- 4.6版本颜色值 -->
+    <color name="symptom_selected_bg_color">#0EA7FF</color>
+    <color name="symptom_unselected_bg_color">#F1F6F8</color>
+    <color name="human_body_text_tip_bg_color">#999999</color>
+</resources>
